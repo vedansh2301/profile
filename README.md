@@ -1,4 +1,3 @@
-
 👋 Hi, I’m Mouse
 👀 I’m interested in Automation/Development ( JavaScript, Python & Bash)
 🌱 I’m currently learning python
